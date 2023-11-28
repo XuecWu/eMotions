@@ -17,6 +17,12 @@ Official repository for ***eMotions: A Large-Scale Dataset for Emotion Recogniti
   
 ---
 
+## 🙏 Acknowledgements 
+
+eMotions and its two variants will not be transferred to outside parties without permissions and can be utilized only for academic research purposes. In particular, the datasets will not be included as part of any commercial software package or product of any institution.
+
+---
+
 ## 📜 Citation
 
 If you find eMotions useful for your research and applications, please cite using the following BibTeX:
