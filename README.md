@@ -1,7 +1,7 @@
 # eMotions
 Official repository for ***eMotions: A Large-Scale Dataset for Emotion Recognition in Short Videos***.
 
-## Overview
+## 🎯 Overview
 
 <p align="center">
   <img src="images/overview.png" width="100%" alt="eMotions Overview">
