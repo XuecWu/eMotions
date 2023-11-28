@@ -4,15 +4,17 @@ Official repository for ***eMotions: A Large-Scale Dataset for Emotion Recogniti
 ## Overview
 
 <p align="center">
-  <img src="images/overview.png" width="70%" alt="eMotions Overview">
+  <img src="images/overview.png" width="100%" alt="eMotions Overview">
 </p>
 
 ---
 
 
+## 🏆 Contributions
 - **Dataset**: 
 - **Models**:
-
+- 
+---
 
 ## Citation
 
