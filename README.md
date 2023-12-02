@@ -27,6 +27,15 @@ eMotions and its two variants will not be transferred to outside parties without
 
 If you find eMotions useful for your research and applications, please cite using the following BibTeX:
 
+```bibtex
+  @article{wu2023emotions,
+  title={eMotions: A Large-Scale Dataset for Emotion Recognition in Short Videos},
+  author={Wu, Xuecheng and Sun, Heli and Xue, Junxiao and Zhai, Ruofan and Kong, Xiangyan and Nie, Jiayu and He, Liang},
+  journal={arXiv preprint arXiv:2311.17335},
+  year={2023}
+  }
+```
+
 ---
 
 
