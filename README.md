@@ -21,6 +21,7 @@ Official repository for ***eMotions: A Large-Scale Dataset for Emotion Recogniti
 
 Our dataset is currently available at https://huggingface.co/datasets/Conna/eMotions
 
+---
 
 
 ## 🙏 Acknowledgements 
