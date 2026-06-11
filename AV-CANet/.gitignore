@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Local config / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Data: use https://huggingface.co/datasets/Conna/eMotions instead of committing data
+annotations/
+eMotions6_*.json
+eMotions_all_processed/
+data/
+datasets/
+raw_data/
+processed_data/
+features/
+
+# Weights / checkpoints
+pretrained/
+model_data/
+checkpoints/
+checkpoint/
+weights/
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+results/
+runs/
+logs/
+wandb/
+tensorboard/
+*.log
+
+# Media / binary data
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/

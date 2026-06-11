@@ -1,0 +1,16 @@
+torch
+torchvision
+numpy
+scikit-learn
+tqdm
+tensorboardX
+matplotlib
+pandas
+Pillow
+librosa
+soundfile
+pydub
+timm
+einops
+mmcv
+mmengine
